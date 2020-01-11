@@ -8,6 +8,8 @@ _date_ = '2020-01-10'
 """
 from xml.etree.ElementTree import PI
 
+# 数据类型和变量
+
 # python中的转义符
 print('I\'m ok')
 # \n 换行符
